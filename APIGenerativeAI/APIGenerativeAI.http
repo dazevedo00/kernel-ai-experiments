@@ -1,0 +1,6 @@
+@APIGenerativeAI_HostAddress = http://localhost:5253
+
+GET {{APIGenerativeAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

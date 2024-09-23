@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGenerativeAI", "APIGenerativeAI\APIGenerativeAI.csproj", "{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CA10766-BA49-4174-8435-390DFF14FD2F}
+	EndGlobalSection
+EndGlobal

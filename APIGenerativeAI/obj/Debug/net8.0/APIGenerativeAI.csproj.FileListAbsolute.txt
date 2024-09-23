@@ -1,0 +1,142 @@
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\appsettings.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.exe
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.deps.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.runtimeconfig.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.pdb
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.AssemblyInfo.cs
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.APIGenerativeAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGenerativeAI.props
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGenerativeAI.props
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGenerativeAI.props
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\scopedcss\bundle\APIGenerativeAI.styles.css
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\refint\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.pdb
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.genruntimeconfig.cache
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\ref\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\OpenAI-DotNet.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\daniel.azevedo\source\repos\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGener.6AF2F357.Up2Date
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\appsettings.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Data\Data.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\OpenAI-DotNet.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.APIGenerativeAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGenerativeAI.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGenerativeAI.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGenerativeAI.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\scopedcss\bundle\APIGenerativeAI.styles.css
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGener.6AF2F357.Up2Date
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\refint\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\AI - GPT\Semantic Kernel\WebApi\APIGenerativeAI\APIGenerativeAI\obj\Debug\net8.0\ref\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\appsettings.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Data\Data.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\APIGenerativeAI.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Abstractions.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Connectors.OpenAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Microsoft.SemanticKernel.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\OpenAI-DotNet.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.APIGenerativeAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGenerativeAI.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGenerativeAI.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGenerativeAI.props
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\scopedcss\bundle\APIGenerativeAI.styles.css
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGener.6AF2F357.Up2Date
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\refint\APIGenerativeAI.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\APIGenerativeAI.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\API_Sales_NET8ENU\kernel-ai-experiments\APIGenerativeAI\obj\Debug\net8.0\ref\APIGenerativeAI.dll

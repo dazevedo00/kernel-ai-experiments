@@ -1,0 +1,184 @@
+﻿NaoEncontrado
+URL: https://www.google.pt
+Description: Não foram encontrados dados para a pesquisa efetuada, deverá fornecer mais detalhes.
+Operation: Page
+
+ListaDeArtigos
+URL: http://127.0.0.1:2018/WebApi/Base/Artigos/LstArtigos
+Description: Lista de Artigos do ERP.
+Operation: GET
+
+Processamento Automático de Recursos Humanos
+URL: http://127.0.0.1:2018/WebApi/RecursosHumanos/Processamento/EfectuaProcessamentoAutomatico/{Ano}/{nPeriodo}/{MesAProcessar}/{TipoPeriodo}/{DiasProc}/{DataFimPeriodo}/{DataProc}/{strRestricoesFuncs}/{mensagem}
+Description: Esta API realiza um processamento automático de recursos humanos.
+Operation: POST
+Parameters:
+- Ano: O ano para o qual o processamento deve ser realizado. (integer, Required)
+- nPeriodo: O número do período para o qual o processamento deve ser realizado. (integer, Required)
+- MesAProcessar: O mês que será processado. (integer, Required)
+- TipoPeriodo: O tipo de período a ser processado. (string, Required)
+- DiasProc: O número de dias a serem processados. (double, Required)
+- DataFimPeriodo: A data de término do período. (date-time, Required)
+- DataProc: A data de processamento. (date-time, Required)
+- strRestricoesFuncs: Restrições de funcionários. (string, Required)
+- mensagem: Mensagem relacionada ao processamento. (string, Required)
+
+LstClientes
+URL: http://127.0.0.1:2018/WebApi/Base/Clientes/LstClientes
+Description: Lista de Cliente do ERP. Devolve a informação sobre os cliente com o nome, numero de cliente, morada e numero de contibuinte
+Operation: GET
+
+ListaDeFuncionarios
+URL: https://www.google.pt/search?q=funcionarios
+Description: Permite encontrar dados detalhados de funcionários, incluindo informações sobre histórico profissional, habilidades e avaliações de desempenho.
+Operation: Page
+
+ListaDeCarros
+URL: https://www.google.pt/search?q=carros
+Description: Fornece uma extensa lista de carros, incluindo especificações técnicas, avaliações de usuários, e comparativos entre modelos de diferentes marcas.
+Operation: Page
+
+ListaDeProdutos
+URL: https://www.google.pt/search?q=produtos
+Description: Explore informações detalhadas sobre uma ampla variedade de produtos, incluindo características, preços, e análises de clientes.
+Operation: Page
+
+ListaDeCidades
+URL: https://www.google.pt/search?q=cidades
+Description: Descubra dados abrangentes sobre várias cidades ao redor do mundo, incluindo informações demográficas, pontos turísticos e qualidade de vida.
+Operation: Page
+
+ListaDeReceitas
+URL: https://www.google.pt/search?q=receitas
+Description: Acesse uma coleção de receitas deliciosas com instruções passo a passo, dicas de culinária e informações nutricionais.
+Operation: Page
+
+ListaDeLivros
+URL: https://www.google.pt/search?q=livros
+Description: Encontre recomendações de livros, resenhas, e sinopses para uma variedade de gêneros literários e autores renomados.
+Operation: Page
+
+ListaDeFilmes
+URL: https://www.google.pt/search?q=filmes
+Description: Descubra informações detalhadas sobre filmes, incluindo elenco, críticas, classificações e trailers.
+Operation: Page
+
+ListaDeRestaurantes
+URL: https://www.google.pt/search?q=restaurantes
+Description: Encontre restaurantes locais com detalhes sobre cardápios, avaliações de clientes e reservas online.
+Operation: Page
+
+ListaDeDestinos
+URL: https://www.google.pt/search?q=destinos
+Description: Explore informações sobre destinos turísticos, incluindo atrações, dicas de viagem e experiências de outros viajantes.
+Operation: Page
+
+ListaDeCursos
+URL: https://www.google.pt/search?q=cursos
+Description: Pesquise cursos online e presenciais, obtendo detalhes sobre currículo, instrutores e certificações disponíveis.
+Operation: Page
+
+ListaDeJogos
+URL: https://www.google.pt/search?q=jogos
+Description: Explore informações sobre jogos de video game, incluindo análises, notícias sobre lançamentos e guias de estratégia.
+Operation: Page
+
+ListaDeTecnologias
+URL: https://www.google.pt/search?q=tecnologias
+Description: Fique atualizado sobre as últimas tecnologias, incluindo dispositivos, softwares e avanços em ciência da computação.
+Operation: Page
+
+ListaDeAnimais
+URL: https://www.google.pt/search?q=animais
+Description: Explore informações detalhadas sobre diferentes espécies de animais, incluindo características, habitat e curiosidades.
+Operation: Page
+
+ListaDeEsportes
+URL: https://www.google.pt/search?q=esportes
+Description: Obtenha notícias e resultados atualizados de uma variedade de esportes, incluindo análises e estatísticas de jogadores e equipes.
+Operation: Page
+
+ListaDeFerramentas
+URL: https://www.google.pt/search?q=ferramentas
+Description: Encontre as melhores ferramentas para suas tarefas, com detalhes sobre usos recomendados e análises de usuários.
+Operation: Page
+
+ListaDeInstrumentosMusicais
+URL: https://www.google.pt/search?q=instrumentos+musicais
+Description: Explore diferentes instrumentos musicais e suas características, incluindo guias para iniciantes e informações sobre marcas populares.
+Operation: Page
+
+ListaDeHobbies
+URL: https://www.google.pt/search?q=hobbies
+Description: Descubra novos hobbies para desfrutar no seu tempo livre, com sugestões de atividades e recursos para iniciantes.
+Operation: Page
+
+ListaDeGadgets
+URL: https://www.google.pt/search?q=gadgets
+Description: Veja as últimas novidades em gadgets e dispositivos eletrônicos, incluindo análises e comparações de produtos.
+Operation: Page
+
+ListaDeArquitetura
+URL: https://www.google.pt/search?q=arquitetura
+Description: Explore projetos arquitetônicos inovadores, com detalhes sobre arquitetos famosos e estilos arquitetônicos.
+Operation: Page
+
+ListaDeCiencia
+URL: https://www.google.pt/search?q=ciencia
+Description: Fique por dentro das últimas descobertas científicas, com informações sobre pesquisas, experimentos e avanços em diversas disciplinas científicas.
+Operation: Page
+
+ListaDeModa
+URL: https://www.google.pt/search?q=moda
+Description: Siga as tendências e descubra dicas de moda, incluindo guias de estilo, informações sobre marcas e notícias do mundo da moda.
+Operation: Page
+
+ListaDeConcertos
+URL: https://www.google.pt/search?q=concertos
+Description: Encontre informações sobre shows e concertos, incluindo datas de eventos, locais e artistas que estarão se apresentando.
+Operation: Page
+
+ListaDeFinancas
+URL: https://www.google.pt/search?q=financas
+Description: Obtenha dicas e notícias sobre finanças pessoais e investimentos, com conselhos de especialistas e análises de mercado.
+Operation: Page
+
+ListaDeSaude
+URL: https://www.google.pt/search?q=saude
+Description: Mantenha-se informado sobre dicas de saúde e bem-estar, incluindo informações sobre exercícios, nutrição e práticas saudáveis.
+Operation: Page
+
+ListaDeTutoriais
+URL: https://www.google.pt/search?q=tutoriais
+Description: Encontre tutoriais úteis para aprender novas habilidades, com passo a passo e recursos recomendados.
+Operation: Page
+
+ListaDeEmpregos
+URL: https://www.google.pt/search?q=empregos
+Description: Pesquise oportunidades de emprego e dicas de carreira, com informações sobre empresas, vagas e conselhos profissionais.
+Operation: Page
+
+ListaDeIdiomas
+URL: https://www.google.pt/search?q=idiomas
+Description: Aprenda sobre diferentes idiomas e culturas, com recursos para aprendizado de línguas estrangeiras e informações culturais.
+Operation: Page
+
+ListaDeEventos
+URL: https://www.google.pt/search?q=eventos
+Description: Descubra eventos locais e globais para participar, incluindo conferências, festivais e atividades culturais.
+Operation: Page
+
+ListaDeArte
+URL: https://www.google.pt/search?q=arte
+Description: Explore obras de arte e artistas contemporâneos, com detalhes sobre movimentos artísticos e exposições.
+Operation: Page
+
+ListaDePaisagens
+URL: https://www.google.pt/search?q=paisagens
+Description: Deslumbre-se com imagens de belas paisagens ao redor do mundo, com informações sobre locais e fotografias impressionantes.
+Operation: Page
+
+ListaDeAstronomia
+URL: https://www.google.pt/search?q=astronomia
+Description: Explore o universo e descubra fatos interessantes sobre a astronomia, com informações sobre planetas, estrelas e eventos celestiais.
+Operation: Page

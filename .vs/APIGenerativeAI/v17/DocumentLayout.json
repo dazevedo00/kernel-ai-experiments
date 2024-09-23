@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\controllers\\messagingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\controllers\\messagingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\controllers\\functionparametercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\controllers\\functionparametercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\controllers\\findfunctionalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\controllers\\findfunctionalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\controllers\\chathistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\controllers\\chathistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\controllers\\analyzesentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\controllers\\analyzesentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\models\\functionmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\models\\functionmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\models\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\models\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|c:\\users\\daniel.azevedo\\onedrive - primavera bss\\documents\\github\\api_sales_net8enu\\kernel-ai-experiments\\apigenerativeai\\models\\apiitemgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD972B7-3B8B-4B0E-8A61-EAF5F75BF68A}|APIGenerativeAI\\APIGenerativeAI.csproj|solutionrelative:apigenerativeai\\models\\apiitemgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessagingController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\MessagingController.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Controllers\\MessagingController.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\MessagingController.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Controllers\\MessagingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:36:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionParameterController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\FunctionParameterController.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Controllers\\FunctionParameterController.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\FunctionParameterController.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Controllers\\FunctionParameterController.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAADwv/IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:35:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindFunctionalityController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\FindFunctionalityController.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Controllers\\FindFunctionalityController.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\FindFunctionalityController.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Controllers\\FindFunctionalityController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv3AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:34:54.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\ChatHistoryController.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Controllers\\ChatHistoryController.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\ChatHistoryController.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Controllers\\ChatHistoryController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA+wDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:33:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAkwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:33:15.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalyzeSentimentController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\AnalyzeSentimentController.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Controllers\\AnalyzeSentimentController.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Controllers\\AnalyzeSentimentController.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Controllers\\AnalyzeSentimentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:32:49.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunctionMetaData.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Models\\FunctionMetaData.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Models\\FunctionMetaData.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Models\\FunctionMetaData.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Models\\FunctionMetaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:32:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Models\\APIService.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Models\\APIService.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Models\\APIService.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Models\\APIService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:32:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APIItemGPT.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Models\\APIItemGPT.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Models\\APIItemGPT.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Models\\APIItemGPT.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Models\\APIItemGPT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:32:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Program.cs",
+              "RelativeDocumentMoniker": "APIGenerativeAI\\Program.cs",
+              "ToolTip": "C:\\Users\\daniel.azevedo\\OneDrive - PRIMAVERA BSS\\Documents\\GitHub\\API_Sales_NET8ENU\\kernel-ai-experiments\\APIGenerativeAI\\Program.cs",
+              "RelativeToolTip": "APIGenerativeAI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:31:44.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

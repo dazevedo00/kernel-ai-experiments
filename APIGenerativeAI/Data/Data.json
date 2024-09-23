@@ -1,0 +1,178 @@
+﻿[
+  {
+    "Name": "GetAllGPTOperations",
+    "URL": "https://www.google.pt",
+    "Description": "Provide a list of all available operations in the chat. Allow the user to know which operations can be used in the chat.",
+    "Operation": "System"
+  },
+  {
+    "Name": "NaoEncontrado",
+    "URL": "https://www.google.pt",
+    "Description": "Não foram encontrados dados para a pesquisa efetuada, deverá fornecer mais detalhes.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "RHPGetArticleInformation",
+    "URL": "",
+    "Description": "Permite obter a informação de artigos. É obrigatório o identificador",
+    "Operation": "ERPAPI",
+    "VoidName": "GetArticleInformation",
+    "Parameters": {
+      "CodigoArtigo": {
+        "Required": true,
+        "Description": "Identificador do artigo, deve ser um código. Aceita números e letras. Não pode ter caracteres especiais.",
+        "TypeOff": "System.String"
+      }
+    }
+  },
+  {
+    "Name": "RHPFerias",
+    "URL": "",
+    "Description": "Permite efetuar a marcação de férias para o funcionário. É obrigatório os parametros CodigoFuncionario e DataDaFeria",
+    "Operation": "ERPAPI",
+    "VoidName": "SaveVacaciones",
+    "Parameters": {
+      "CodigoFuncionario": {
+        "Required": true,
+        "Description": "Identificador do funcionário, deve ser um código. Aceita números e letras. Não pode ter caracteres especiais.",
+        "TypeOff": "System.String"
+      },
+      "DataDaFeria": {
+        "Required": true,
+        "Description": "Campo Data em que vão ser inseridas às férias. Apenas aceita campo datetime.",
+        "TypeOff": "System.DateTime"
+      }
+    }
+  },
+  {
+    "Name": "RHPSendPaySlip",
+    "URL": "",
+    "Description": "Envia o recibo para um determinado ano e mês.",
+    "Operation": "ERPAPI",
+    "VoidName": "SendPaySlip",
+    "Parameters": {
+      "CodigoFuncionario": {
+        "Required": true,
+        "Description": "Employee ID should be a unique code consisting of letters and numbers only, with no special characters allowed.",
+        "TypeOff": "System.String"
+      },
+      "year": {
+        "Required": true,
+        "TypeOff": "System.Int32",
+        "Description": "Ano do recibo a ser enviado."
+      },
+      "month": {
+        "Required": true,
+        "TypeOff": "System.Int32",
+        "Description": "Mês do recibo a ser enviado."
+      }
+    }
+  },
+  {
+    "Name": "RHPCreateAbsence",
+    "URL": "",
+    "Description": "Cria uma ausência para um funcionário em uma data específica. Apenas para ausências",
+    "Operation": "ERPAPI",
+    "VoidName": "CreateAbsence",
+    "Parameters": {
+      "CodigoFuncionario": {
+        "Required": true,
+        "Description": "\"Identificador do funcionário, deve ser um código. Aceita números e letras. Não pode ter caracteres especiais.",
+        "TypeOff": "System.String"
+      },
+      "absence": {
+        "Required": true,
+        "Description": "Identificador do ausência, deve ser um código. Aceita números e letras. Não pode ter caracteres especiais.",
+        "TypeOff": "System.String"
+      },
+      "DataDaFeria": {
+        "Required": true,
+        "Description": "Campo Data em que vão ser inseridas às férias. Apenas aceitá campo datetime.",
+        "TypeOff": "System.DateTime"
+      },
+      "remarks": {
+        "Required": true,
+        "Description": "Campo Notas, Campo Informativo",
+        "TypeOff": "System.String"
+      }
+    }
+  },
+  {
+    "Name": "ListaDeClientes",
+    "URL": "http://127.0.0.1:2018/WebApi/Base/Clientes/LstClientes",
+    "Description": "Lista de Cliente do ERP. Devolve a informação sobre os cliente com o nome, numero de cliente, morada e numero de contibuinte",
+    "Operation": "GET"
+  },
+  {
+    "Name": "ListaDeFuncionarios",
+    "URL": "https://www.google.pt/search?q=funcionarios",
+    "Description": "Permite encontrar dados detalhados de funcionários, incluindo informações sobre histórico profissional, habilidades e avaliações de desempenho.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeCarros",
+    "URL": "https://www.google.pt/search?q=carros",
+    "Description": "Fornece uma extensa lista de carros, incluindo especificações técnicas, avaliações de usuários, e comparativos entre modelos de diferentes marcas.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeProdutos",
+    "URL": "https://www.google.pt/search?q=produtos",
+    "Description": "Explore informações detalhadas sobre uma ampla variedade de produtos, incluindo características, preços, e análises de clientes.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeCidades",
+    "URL": "https://www.google.pt/search?q=cidades",
+    "Description": "Descubra dados abrangentes sobre várias cidades ao redor do mundo, incluindo informações demográficas, pontos turísticos e qualidade de vida.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeReceitas",
+    "URL": "https://www.google.pt/search?q=receitas",
+    "Description": "Acesse uma coleção de receitas deliciosas com instruções passo a passo, dicas de culinária e informações nutricionais.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeLivros",
+    "URL": "https://www.google.pt/search?q=livros",
+    "Description": "Encontre recomendações de livros, resenhas, e sinopses para uma variedade de gêneros literários e autores renomados.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeFilmes",
+    "URL": "https://www.google.pt/search?q=filmes",
+    "Description": "Descubra informações detalhadas sobre filmes, incluindo elenco, críticas, classificações e trailers.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeRestaurantes",
+    "URL": "https://www.google.pt/search?q=restaurantes",
+    "Description": "Encontre restaurantes locais com detalhes sobre cardápios, avaliações de clientes e reservas online.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeDestinos",
+    "URL": "https://www.google.pt/search?q=destinos",
+    "Description": "Explore informações sobre destinos turísticos, incluindo atrações, dicas de viagem e experiências de outros viajantes.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeCursos",
+    "URL": "https://www.google.pt/search?q=cursos",
+    "Description": "Pesquise cursos online e presenciais, obtendo detalhes sobre currículo, instrutores e certificações disponíveis.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeJogos",
+    "URL": "https://www.google.pt/search?q=jogos",
+    "Description": "Explore informações sobre jogos de video game, incluindo análises, notícias sobre lançamentos e guias de estratégia.",
+    "Operation": "Page"
+  },
+  {
+    "Name": "ListaDeAstronomia",
+    "URL": "https://www.google.pt/search?q=astronomia",
+    "Description": "Explore o universo e descubra fatos interessantes sobre a astronomia, com informações sobre planetas, estrelas e eventos celestiais.",
+    "Operation": "Page"
+  }
+]
